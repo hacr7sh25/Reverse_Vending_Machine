@@ -11,6 +11,12 @@ This project provides a simple web interface for:
 - sending it to a local reverse vending machine model API
 - displaying the inference result
 
+## Model
+
+This app is designed to work with an RVM classification model.
+The public hosted model is available at:
+https://universe.roboflow.com/harsh-vardhan-jaiswal/rvm-nyu70
+
 ## Files included
 
 - `app.py` — Flask backend
