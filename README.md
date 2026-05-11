@@ -93,7 +93,7 @@ Public Roboflow Model:
 # 📄 Project Documents
 
 - [Final Project Report](documents/PCL_Report_updated.pdf)
-- [Project Presentation PPT](documents/pcl 6th sem ppt.pdf)
+- [Project Presentation PPT](documents/PCL_ppt.pdf)
 
 # 🏗️ System Architecture
 
