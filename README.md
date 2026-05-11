@@ -44,9 +44,9 @@ This project combines:
 The system uses a trained image classification model based on transfer learning techniques.
 
 ### 📊 Model Performance
-- **Validation Accuracy:** 96.7%
-- **Inference Time:** ~0.3–0.5 seconds
-- **Dataset Size:** ~8,700 images
+- Validation Accuracy: 96.7%
+- Inference Time: ~0.3–0.5 seconds
+- Dataset Size: ~8,700 images
 
 ### 🗂️ Waste Categories
 - Plastic
