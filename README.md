@@ -90,6 +90,11 @@ Public Roboflow Model:
 
 ![Metal Detection](screenshots/Metal_detection.png)
 
+# 📄 Project Documents
+
+- [Final Project Report](documents/Final_Report.pdf)
+- [Project Presentation PPT](documents/Final_PPT.pptx)
+
 # 🏗️ System Architecture
 
 ```text
