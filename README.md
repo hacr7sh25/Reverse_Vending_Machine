@@ -17,6 +17,16 @@ This app is designed to work with an RVM classification model.
 The public hosted model is available at:
 https://universe.roboflow.com/harsh-vardhan-jaiswal/rvm-nyu70
 
+## Features
+
+- AI-based waste classification
+- Real-time prediction
+- Reward point simulation
+- Docker-based deployment
+- Responsive UI
+- Dark mode support
+- Scan history tracking
+
 ## Files included
 
 - `app.py` — Flask backend
