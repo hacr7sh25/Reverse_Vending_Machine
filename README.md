@@ -62,7 +62,7 @@ The system uses a trained image classification model based on transfer learning 
 
 Public Roboflow Model:
 
-[Roboflow RVM Model](https://universe.roboflow.com/harsh-vardhan-jaiswal/rvm-nyu70?utm_source=chatgpt.com)
+[Roboflow RVM Model](https://universe.roboflow.com/harsh-vardhan-jaiswal/rvm-nyu70)
 
 ---
 
