@@ -66,6 +66,30 @@ Public Roboflow Model:
 
 ---
 
+# 📸 Project Screenshots
+
+## Smart RVM Architecture
+
+![Architecture](screenshots/Architecture.png)
+
+---
+
+## Plastic Waste Detection
+
+![Plastic Detection](screenshots/Plastic_detection.png)
+
+---
+
+## Glass Waste Detection
+
+![Glass Detection](screenshots/Glass_detection.png)
+
+---
+
+## Metal Waste Detection
+
+![Metal Detection](screenshots/Metal_detection.png)
+
 # 🏗️ System Architecture
 
 ```text
