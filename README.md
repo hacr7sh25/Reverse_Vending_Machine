@@ -27,6 +27,18 @@ https://universe.roboflow.com/harsh-vardhan-jaiswal/rvm-nyu70
 - Dark mode support
 - Scan history tracking
 
+## Accuracy
+
+Validation Accuracy: 96.7%
+
+Classes:
+- Plastic
+- Paper
+- Glass
+- Metal
+- Organic
+- Hazardous
+
 ## Files included
 
 - `app.py` — Flask backend
