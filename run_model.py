@@ -3,7 +3,7 @@ import json
 
 # Your settings
 LOCAL_URL = "http://localhost:9001/rvm-nyu70/1"
-API_KEY = "ILOOC6sXIIHScbYpe9h2"
+API_KEY = "ADD_YOUR_API_KEY"
 IMAGE_PATH = "img4.webp"
 
 # Read the image and send it to your local Docker container
