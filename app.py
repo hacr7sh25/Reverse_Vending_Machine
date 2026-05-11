@@ -9,7 +9,7 @@ app = Flask(__name__)
 # Configuration
 UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif', 'webp'}
-RVM_API_URL = "http://localhost:9001/rvm-nyu70/1"
+RVM_API_URL = "http://localhost:9001"
 RVM_API_KEY = os.getenv("RVM_API_KEY")
 
 if not RVM_API_KEY:
